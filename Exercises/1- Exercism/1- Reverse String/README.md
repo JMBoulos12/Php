@@ -1,2 +1,3 @@
 
-# EASY
+
+# $${\color{green}EASY}$$
