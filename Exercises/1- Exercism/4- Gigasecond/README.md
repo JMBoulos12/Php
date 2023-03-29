@@ -1,3 +1,3 @@
 
 
-# <code style="color : green">EASY</code>
+# $${\color{green}EASY}$$
