@@ -1,3 +1,3 @@
 
 
-# $${\color{green}Green}$$
+# $${\color{green}EASY}$$
