@@ -92,3 +92,8 @@ function score(string $word): int
     die;
     throw new \BadFunctionCallException("Implement the score function");
 }
+
+
+
+
+
