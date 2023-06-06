@@ -91,3 +91,4 @@ function isValidSymbol($inputArray): bool{
     }
     return true;
 }
+
