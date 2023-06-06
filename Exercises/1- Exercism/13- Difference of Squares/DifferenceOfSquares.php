@@ -36,3 +36,4 @@ function difference(int $n): int
 {
     return squareOfSum($n) - sumOfSquares($n);
 }
+
