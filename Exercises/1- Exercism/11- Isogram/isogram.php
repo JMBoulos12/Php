@@ -28,3 +28,7 @@ function isIsogram(string $str): bool
     $arr = preg_split('//u', mb_strtolower($str), null, PREG_SPLIT_NO_EMPTY);
     return count($arr) === count(array_unique($arr));
 }
+
+
+
+
