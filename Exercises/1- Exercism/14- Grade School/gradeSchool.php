@@ -56,3 +56,4 @@ class School
         }, $this->school);
     }
 }
+
